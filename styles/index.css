@@ -1,0 +1,23 @@
+body {
+    width: 800px;
+    font-family: "Josefin Sans", serif;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    max-width: 400px;
+    width: 100%;
+    height: 400px;
+    margin: auto;
+    background: rgb(248, 154, 170);
+    padding: 20px;
+    border-radius: 10px;
+    font-family: "Josefin Sans", serif;
+}
+img {
+    width: 30px;
+    margin: auto;
+}
